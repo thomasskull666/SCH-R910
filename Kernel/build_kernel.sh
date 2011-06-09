@@ -11,7 +11,7 @@ DEFCONFIG=y
 MKZIP='7z -mx9 -mmt=1 a "$OUTFILE" .'
 PRODUCE_TAR=n
 PRODUCE_ZIP=n
-TARGET="indulge"
+TARGET="forte_01"
 THREADS=4
 VERSION=$(date +%Y%m%d%H%M)
 TRACK=y

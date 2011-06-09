@@ -1,0 +1,2 @@
+kernel/drivers/net/wireless/bcm4329/src/wl/sys/hotspot_event_monitoring.ko
+kernel/drivers/net/wireless/bcm4329/dhd.ko
