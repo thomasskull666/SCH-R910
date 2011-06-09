@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/bcm4329/dhd.ko := /home/thomas/test/arm-2009q3/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/thomas/work/SCH-R910/Kernel/scripts/module-common.lds --build-id -o drivers/net/wireless/bcm4329/dhd.ko drivers/net/wireless/bcm4329/dhd.o drivers/net/wireless/bcm4329/dhd.mod.o
